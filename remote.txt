@@ -2,3 +2,4 @@ first
 second remote add
 fourth
 sixth remote add
+seventh
